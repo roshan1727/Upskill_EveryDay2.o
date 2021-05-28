@@ -71,17 +71,17 @@
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs3.png)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs4.png)  
 - ✔️ Techgig Daily Challange
-  - ✔️ [Daily challage Day 8]()
-- 📰 [Daily English News]()
-- 📰 [Daily English News]()
+  - ✔️ [Daily challage Day 8](https://www.techgig.com/practice/result/day-8/QnQ1UTA4YW1iOENsdkVQc3FtVVNRZz09)
+- 📰 [Daily English News]( https://techcrunch.com/2021/05/28/amazon-is-now-letting-indians-read-magazine-articles-in-its-shopping-app/ )
+- 📰 [Daily English News](https://www.thehindu.com/sci-tech/technology/lawsuit-claims-apple-monopolizes-heart-rate-technology-for-apple-watch/article34655214.ece)
 - ✔️Youtube Videos for English vocabalory
     - 👂🏻 [Watched a Youtube video "Gravitas | Study: Humans can live up to 150 years"](https://youtu.be/0m3fcfLfDsM)
     - 👂🏻 [Watched a Youtube video "The smoothest Sales Pitch you will ever come accross: Amway Case Study"](https://youtu.be/wzsYAuxhxSw)
     - 👂🏻 [Watched a Youtube video "The 10 Cheapest Countries To Live or Retire | You Might Not Need to Work"](https://youtu.be/_fwM8K8bWH4)
     - 👂🏻 [Watched a Youtube video "Simple & Powerful Sales Technique to get Clients/Internships (Part 1)"](https://youtu.be/Lb55kGWCZy0)
 - ✔️Upskilling Python 15 days of coding
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 3 | Python Warriors"](https://youtu.be/yA3fkmJn-Rg)
 - ✔️Web Development 
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Attribute & nth child pseudo Selectors | Web Development Tutorials #32"](https://youtu.be/P-hZDC5YkJE)
 </p>
 </details>
