@@ -57,4 +57,31 @@
 - ✔️Web Development 
     - 👂🏻 [Watched a Youtube video "CSS Tutorial: More on CSS Selectors | Web Development Tutorials #31"](https://youtu.be/WwUM7qOimbo)
 </p>
+</details> 
+
+<details>
+<summary>Day 53</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate3.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity3.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d53chs4.png)  
+- ✔️ Techgig Daily Challange
+  - ✔️ [Daily challage Day 8]()
+- 📰 [Daily English News]()
+- 📰 [Daily English News]()
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas | Study: Humans can live up to 150 years"](https://youtu.be/0m3fcfLfDsM)
+    - 👂🏻 [Watched a Youtube video "The smoothest Sales Pitch you will ever come accross: Amway Case Study"](https://youtu.be/wzsYAuxhxSw)
+    - 👂🏻 [Watched a Youtube video "The 10 Cheapest Countries To Live or Retire | You Might Not Need to Work"](https://youtu.be/_fwM8K8bWH4)
+    - 👂🏻 [Watched a Youtube video "Simple & Powerful Sales Technique to get Clients/Internships (Part 1)"](https://youtu.be/Lb55kGWCZy0)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video ""]()
+- ✔️Web Development 
+    - 👂🏻 [Watched a Youtube video ""]()
+</p>
 </details>
