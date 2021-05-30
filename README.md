@@ -105,3 +105,25 @@
     - 👂🏻 [Watched a Youtube video "COVID-19: Chinese scientists created the virus; study"](https://youtu.be/9Y0TBsCwJ_I)
 </p>
 </details>
+
+<details>
+<summary>Day 55</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate5.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity5.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d55chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d55chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d55chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d55chs4.png)  
+- ✔️ Techgig Daily Challange
+  - ✔️ [Daily challage Day 10](https://www.techgig.com/practice/result/day-10/S2pCdHVDall3am5VM0Y5bmxuWEV2QT09)
+- 📰 [Daily English News](https://www.financialexpress.com/market/instadapp-how-two-indian-brothers-in-their-20s-put-a-blockchain-startup-on-the-world-map/2261761/)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Why Big Dairy Companies Struggle In India"](https://youtu.be/4mBiFEspcIM)
+    - 👂🏻 [Watched a Youtube video "How Rockefeller Built His Trillion Dollar Oil Empire"](https://youtu.be/9saLsvWcppw)
+    - 👂🏻 [Watched a Youtube video "Train your mind to never get nervous in any situation (Practical Steps)"](https://youtu.be/odPwOQI_O0Q)
+    - 👂🏻 [Watched a Youtube video "STOP making these 3 Interview Mistakes! (90% Candidates get rejected because of this)"](https://youtu.be/TqZRgHOlKmU)
+</p>
+</details>
