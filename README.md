@@ -127,3 +127,29 @@
     - 👂🏻 [Watched a Youtube video "STOP making these 3 Interview Mistakes! (90% Candidates get rejected because of this)"](https://youtu.be/TqZRgHOlKmU)
 </p>
 </details>
+
+<details>
+<summary>Day 56</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate6.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity6.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d56chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d56chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d56chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d56chs4.png)  
+- ✔️ Techgig Daily Challange
+  - ✔️ [Daily challage Day 11](https://www.techgig.com/practice/result/day-11/MlNON2V4YnBOaXBMMXNVOXlLdlRYUT09)
+- 📰 [Daily English News](https://www.coindesk.com/google-cloud-now-provides-blockchain-insights-for-polygon-network)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "The Top Artificial Intelligence Companies To Watch In 2021 | Forbes"](https://youtu.be/cRr9S9Vnxvc)
+    - 👂🏻 [Watched a Youtube video "Bill Gates-Backed Carbon Capture Plant Does The Work Of 40 Million Trees"](https://youtu.be/XHX9pmQ6m_s)
+    - 👂🏻 [Watched a Youtube video "Could Tesla Succeed In India?"](Could Tesla Succeed In India?
+)
+    - 👂🏻 [Watched a Youtube video "What Happened To Dell?"](https://youtu.be/w3Td67CdWNI)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 4 | Python Warriors"](https://youtu.be/nu552B84DjY)
+    - 👂🏻 [Watched a Youtube video "#Python Webinar-1: Introduction, Data Structures, Conditionals, Loops & Functions"](https://youtu.be/LRbweU7sFSg)
+</p>
+</details>
