@@ -164,7 +164,7 @@
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs3.png)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs4.png)  
-- 📰 [Daily English News]()
+- 📰 [Daily English News](https://towardsdatascience.com/googles-lamda-the-next-generation-of-chatbots-62294be58426)
 - ✔️Youtube Videos for English vocabalory
     - 👂🏻 [Watched a Youtube video "Expert warns of 3rd COVID wave in UK | England | Coronavirus update | Pandemic | Latest English News"](https://youtu.be/iDlnXkwCgI4)
     - 👂🏻 [Watched a Youtube video "How Square Makes Money"](https://youtu.be/0Is_gfHTWM0)
