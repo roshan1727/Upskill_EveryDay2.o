@@ -157,8 +157,8 @@
 <summary>Day 57</summary>
 <p>
 
-- ✔️[Completed Daily Workout Problem in Elevate]()
-- ✔️ [Completed Daily Workout Problem in lumosity]()
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate7.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity7.jpg)
 - ✔️Chess.com
   - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs2.png)
