@@ -145,11 +145,32 @@
 - ✔️Youtube Videos for English vocabalory
     - 👂🏻 [Watched a Youtube video "The Top Artificial Intelligence Companies To Watch In 2021 | Forbes"](https://youtu.be/cRr9S9Vnxvc)
     - 👂🏻 [Watched a Youtube video "Bill Gates-Backed Carbon Capture Plant Does The Work Of 40 Million Trees"](https://youtu.be/XHX9pmQ6m_s)
-    - 👂🏻 [Watched a Youtube video "Could Tesla Succeed In India?"](Could Tesla Succeed In India?
-)
+    - 👂🏻 [Watched a Youtube video "Could Tesla Succeed In India?"](https://youtu.be/swd2iTan2t8)
     - 👂🏻 [Watched a Youtube video "What Happened To Dell?"](https://youtu.be/w3Td67CdWNI)
 - ✔️Upskilling Python 15 days of coding
     - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 4 | Python Warriors"](https://youtu.be/nu552B84DjY)
     - 👂🏻 [Watched a Youtube video "#Python Webinar-1: Introduction, Data Structures, Conditionals, Loops & Functions"](https://youtu.be/LRbweU7sFSg)
+</p>
+</details>
+
+<details>
+<summary>Day 57</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity]()
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d57chs4.png)  
+- 📰 [Daily English News]()
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Expert warns of 3rd COVID wave in UK | England | Coronavirus update | Pandemic | Latest English News"](https://youtu.be/iDlnXkwCgI4)
+    - 👂🏻 [Watched a Youtube video "How Square Makes Money"](https://youtu.be/0Is_gfHTWM0)
+    - 👂🏻 [Watched a Youtube video "Gravitas: Covid-19 Origins: Was the virus "manipulated" in a lab?"](https://youtu.be/wTNp6nG4dXA)
+    - 👂🏻 [Watched a Youtube video "Why iPhone 11 Is Apple’s Least Innovative iPhone Yet"](https://youtu.be/7YyTCa6IMKA)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 5 | Python Warriors"](https://youtu.be/ZXyluH0-1uw)
 </p>
 </details>
