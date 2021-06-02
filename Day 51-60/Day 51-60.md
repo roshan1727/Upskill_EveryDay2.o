@@ -174,3 +174,25 @@
     - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 5 | Python Warriors"](https://youtu.be/ZXyluH0-1uw)
 </p>
 </details>
+
+<details>
+<summary>Day 58</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate8.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity8.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d58chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d58chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d58chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d58chs4.png)  
+- 📰 [Daily English News](https://analyticsindiamag.com/8-indian-blockchain-startups-to-watch-out-for/)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Why is Apple so expensive? | CNBC Explains"](\https://youtu.be/t6VYByDYg7c)
+    - 👂🏻 [Watched a Youtube video "Gravitas: Nestle's long-list of unhealthy food products"](https://youtu.be/z-xsm3i8QJU)
+    - 👂🏻 [Watched a Youtube video "Why Japanese Chef’s Knives Are So Expensive | So Expensive"](https://youtu.be/7dZmeh_28Eo)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 6 | Python Warriors [TUPLES]"](https://youtu.be/7c33xQ93MDA)
+- ✔️Sovled 7 python basic probles in skillrack.
+</p>
+</details>
