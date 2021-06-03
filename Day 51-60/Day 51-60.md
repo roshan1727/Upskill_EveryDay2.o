@@ -196,3 +196,29 @@
 - ✔️Sovled 7 python basic probles in skillrack.
 </p>
 </details>
+
+<details>
+<summary>Day 59</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate9.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity9.jpg)
+- ✔️[typing](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/keyboard/keyboard1.png)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d59chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d59chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d59chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d59chs4.png)  
+- 📰 [Daily English News](https://techcrunch.com/2021/06/02/google-hires-former-siriusxm-cpo-cto-to-lead-its-maps-team/)
+- 📰 [Daily English News](https://tech.hindustantimes.com/amp/tech/news/whatsapp-multi-device-disappearing-mode-and-view-once-coming-soon-zuckerberg-confirms-71622711667729.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Canada's 'cultural genocide' unearthed"](https://youtu.be/PzM3NQFViYQ)
+    - 👂🏻 [Watched a Youtube video "Gravitas: Mealworm smoothies & cricket pasta on the menu"](https://youtu.be/EPGB4ltYDiU)
+    - 👂🏻 [Watched a Youtube video "Hidden gems of Kerala's traditional architecture"](https://youtu.be/mEZOMwXnE6U)
+    - 👂🏻 [Watched a Youtube video "How NZ Farmers Shear 25,000 Sheep In 10 Days | Big Business"](https://youtu.be/eo9T781wVh0)
+        - 👂🏻 [Watched a Youtube video "How did Johnnie Walker keep walking for more than 200 years? : Marketing Case Study"](https://youtu.be/wAHSJgIx5wA)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 7 | Python Warriors [DICTIONARY]"](https://youtu.be/4ZKQ-1nYMLI)
+- ✔️Sovled 5 python basic probles in skillrack.
+</p>
+</details>
