@@ -222,3 +222,32 @@
 - ✔️Sovled 5 python basic probles in skillrack.
 </p>
 </details>
+
+<details>
+<summary>Day 60</summary>
+<p>
+
+- ✔️[Completed Daily Workout Problem in Elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate10.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity10.jpg)
+- ✔️[typing](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/keyboard/keyboard2.png)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d60chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d60chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d60chs3.png)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d60chs4.png)  
+- 📰 [Daily English News](https://www.hindustantimes.com/india-news/why-google-showed-kannada-as-ugliest-language-of-india-explained-101622784047314.html)
+- 📰 [Daily English News](https://www.entrepreneur.com/article/371552)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Is WhatsApp tricking users into consent?"](https://youtu.be/LTGobc7ypTo)
+    - 👂🏻 [Watched a Youtube video "How to Read effectively like a CEO? (NOT Speed Reading)"](https://youtu.be/k--beE42aDs)
+    - 👂🏻 [Watched a Youtube video "Why Wagyu Beef Is So Expensive | So Expensive"](https://youtu.be/9CTzhqVHmww)
+    - 👂🏻 [Watched a Youtube video "Android 12 is here and I like it"](https://youtu.be/B5FDeNog_2A)
+        - 👂🏻 [Watched a Youtube video "How Electric Roads Could Power the Future"](https://youtu.be/VMXo827nt-Q)
+- ✔️Upskilling Python 15 days of coding
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 8 | Python Warriors [Conditions and Loops]"](https://youtu.be/j5gPB2cxlsc)
+    - 👂🏻 [Watched a Youtube video "#Python Webinar-2: Object Oriented Programming, Scopes, Closures, Crossword game"](https://youtu.be/02BRXyHoej4)  
+- ✔️Sovled 10 python basic probles in skillrack.
+- ✔️Solved 5  python problem in Hackerrank.
+ 
+</p>
+</details>
