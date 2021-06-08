@@ -331,6 +331,34 @@ Jim Rohn
     - 👂🏻 [Watched a Youtube video "Windows Command Line Tutorial - 2 - Listing Files and Directories"](https://youtu.be/7ABkcHLdG_A)
 </p>
 </details>
+
+<details>
+<summary>Day 64</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate13.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity14.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d64chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d64chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d64chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d64chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Leader of Boko Haram "Kills himself""](https://youtu.be/xMAov32qbBk)
+    - 👂🏻 [Watched a Youtube video "Why Horseshoe Crab Blood Is So Expensive | So Expensive"](https://youtu.be/LgQZWSlLBnA)
+    - 👂🏻 [Watched a Youtube video "Why Avocados Are So Expensive | So Expensive"](https://youtu.be/GZwbhgS9fuc)
+    - 👂🏻 [Watched a Youtube video "Why Sea Cucumbers Are So Expensive | So Expensive"](https://youtu.be/sRH5KzNQxmc)
+    
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]"](https://youtu.be/aDMM8wfQbm4)
+- ✔️Sovled 5 python basic probles in skillrack.
+- ✔️Windows CLI Upgrading
+    - 👂🏻 [Watched a Youtube video "Windows Command Line Tutorial - 3 - Opening Files and History"](https://youtu.be/LHhPvq5R0hA)
+    - 👂🏻 [Watched a Youtube video "Windows Command Line Tutorial - 4 - Creating and Removing Directories"](https://youtu.be/ODk8CoSLofA)
+    - 👂🏻 [Watched a Youtube video "Windows Command Line Tutorial - 5 - PATH Variable"](https://youtu.be/8HK1BsRprt0)
+    - 👂🏻 [Watched a Youtube video "Windows Command Line Tutorial - 6 - Drives and Changing Colors"](https://youtu.be/z9Yu4kZs-Bg)
+</p>
+</details>
 </p>
 </details>
 
