@@ -403,6 +403,7 @@ Jim Rohn
     - 👂🏻 [Watched a Youtube video "What it really means to be ‘Made in China’ | CNBC Reports"](https://youtu.be/oU5JAavtB2k)
     - 👂🏻 [Watched a Youtube video "Monsanto: The Company that Owns the World’s Food Supply"](https://youtu.be/KAZmHIiN8VI)
     - 👂🏻 [Watched a Youtube video "Inside the mind of a master procrastinator | Tim Urban"](https://youtu.be/arj7oStGLkU)
+    - 👂🏻 [Watched a Youtube video "Manque de confiance : comprendre le cerveau pour l’affronter | Lisa Lai | TEDxINSA"](https://youtu.be/LYjzHayRaes)
 - ✔️Python Upgrading
     - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 12 | Python Warriors [File Handling]"](https://youtu.be/tnValygNunI)
 - ✔️Sovled 5 python basic probles in skillrack
