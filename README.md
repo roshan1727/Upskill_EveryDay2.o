@@ -415,7 +415,7 @@ Jim Rohn
 
 
 <details>
-<summary>Day 66</summary>
+<summary>Day 67</summary>
 <p>
 
 
