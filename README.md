@@ -432,6 +432,30 @@ Jim Rohn
 - ✔️Sovled 5 python basic probles in skillrack
 </p>
 </details>
+<details>
+<summary>Day 68</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity17.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate16.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d68chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d68chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d68chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d68chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Why Rolls-Royce Cars Are So Expensive | So Expensive"](https://youtu.be/NUzDLpSkQTg)
+    - 👂🏻 [Watched a Youtube video "India Nominated Prof. Soborno Isaac for Nobel Prize"](https://youtu.be/335ElpRkYow)
+    - 👂🏻 [Watched a Youtube video "How Soil Could Be An Untapped Source Of Electricity"](https://youtu.be/niwcJ1uTcx0)
+    - 👂🏻 [Watched a Youtube video "How to build Brand loyalty like Volvo?"](https://youtu.be/YCngR6uSEVo)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 14 | Python Warriors [Web Scraping]"](https://youtu.be/EdpOH9p9Tq8)
+- ✔️Sovled 5 python basic probles in skillrack
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Linux/Mac Terminal Commands Introduction"](https://youtu.be/YZFnTGxLA1k)
+    - 👂🏻 [Watched a Youtube video "View & Change Directories - Terminal Commands"](https://youtu.be/DuvzQMc0qt0)
+</p>
+</details>
 </p>
 </details>
 
