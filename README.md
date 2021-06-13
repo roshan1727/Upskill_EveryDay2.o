@@ -456,6 +456,33 @@ Jim Rohn
     - 👂🏻 [Watched a Youtube video "View & Change Directories - Terminal Commands"](https://youtu.be/DuvzQMc0qt0)
 </p>
 </details>
+
+<details>
+<summary>Day 69</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity18.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate17.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d69chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d69chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d69chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d69chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How a cooperative conserved rainwater to grow a forest in a drought-prone Dharmapuri of Tamil Nadu"](https://youtu.be/Xy9qdrD3uK0)
+    - 👂🏻 [Watched a Youtube video "Vistadome Coach | Ahmedabad - Kevadiya Jan Shatabdi Express"](https://youtu.be/vB3WRskL3mk)
+    - 👂🏻 [Watched a Youtube video "Looks like Crypto revolution is just getting started! 🌟"](https://youtu.be/RADnp-6kMS8)
+    - 👂🏻 [Watched a Youtube video "Gravitas: Why did America deny approval to Covaxin?"](https://youtu.be/cZt4N70HeQU)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "15 Days of Code | Day 15 | Python Warriors [Numpy]"](https://youtu.be/iGtQV6VDOng)
+- ✔️Sovled 5 python basic probles in skillrack
+- ✔️Sovled 5 C language basic probles in skillrack
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Creating and Reading Files - Terminal Commands"](https://youtu.be/QjPWUQjIZao)
+    - 👂🏻 [Watched a Youtube video "Using flags with the list command - Terminal Commands"](https://youtu.be/KfjINcu5fyI)
+</p>
+</details>
 </p>
 </details>
 
