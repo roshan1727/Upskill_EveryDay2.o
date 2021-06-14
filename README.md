@@ -483,6 +483,37 @@ Jim Rohn
     - 👂🏻 [Watched a Youtube video "Using flags with the list command - Terminal Commands"](https://youtu.be/KfjINcu5fyI)
 </p>
 </details>
+<details>
+<summary>Day 70</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity19.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate18.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d70chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d70chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d70chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/d70chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "GoTo: The multibillion-dollar superapp behind Indonesia’s most valuable merger | CNBC Make It"](https://youtu.be/1CDBeElkYg0)
+    - 👂🏻 [Watched a Youtube video "Huge sinkhole in Mexico threatens to swallow house | Mexico giant hole | Latest World English News"](https://youtu.be/6HDmCNAC0pA)
+    - 👂🏻 [Watched a Youtube video "What Makes SpaceX's Suits So Good?"](https://youtu.be/h5IvjHRubp0)
+    - 👂🏻 [Watched a Youtube video "How an Indoor Farm Uses Technology to Grow 80,000 Pounds of Produce per Week — Dan Does"](https://youtu.be/gW-21CHDkIU)
+    - 👂🏻 [Watched a Youtube video "Why Elon Musk Built a School for His Kids"](https://youtu.be/MFOEyqqGuEI)
+    - 👂🏻 [Watched a Youtube video "Afterpay: How this 30-year-old became Australia’s youngest self-made billionaire | CNBC Make It"](https://youtu.be/nCK24nGcWqk)
+    - 👂🏻 [Watched a Youtube video "Coupang: How a Harvard dropout founded South Korea's most valuable start-up | Make It Internationa"](https://youtu.be/aPJlqcXstcI)
+    - 👂🏻 [Watched a Youtube video "Eat Just: The multibillion-dollar company selling lab-grown chicken meat | CNBC Make It"](https://youtu.be/xeZ_o_eqt38)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Learn Tkinter With Projects | Python Tkinter GUI Tutorial In Hindi #0"](https://youtu.be/-Q4lm8eYulw)
+    - 👂🏻 [Watched a Youtube video "Notepad & Calculator In Tkinter + Why Tkinter? | Python Tkinter GUI Tutorial In Hindi #1"](https://youtu.be/unYqUyeGWQY)
+- ✔️Sovled 2 python basic probles in skillrack
+- ✔️Sovled 2 C language basic probles in skillrack
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Creating & Removing Directories - Terminal Commands"](https://youtu.be/sDd1vnv503g)
+    - 👂🏻 [Watched a Youtube video "Copy Files - Terminal Commands"](https://youtu.be/QF0tkuwsaIw)
+</p>
+</details>
 </p>
 </details>
 
