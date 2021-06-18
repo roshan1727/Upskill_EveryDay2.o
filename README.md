@@ -605,5 +605,31 @@ Steve Irwin
 </p>
 </details>
 
+
+<details>
+<summary>Day 74</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity23.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate22.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day74chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day74chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day74chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day74chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Inside a Cape Town Tech Startup"](https://youtu.be/oYDwstBjDkM)
+    - 👂🏻 [Watched a Youtube video "Importance of Aptitude | Important Topics for Product Company Interviews | Scaler Academy"](https://youtu.be/vRq3iUZ6CQI)
+    - 👂🏻 [Watched a Youtube video "Why does bitcoin use so much energy? | CNBC Explains"](https://youtu.be/JT22_dUsl5M)
+    - 👂🏻 [Watched a Youtube video "Why McDonald’s Flopped In Vietnam"](https://youtu.be/l9pthhpd7So)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Exercise 1: Creating Newspaper GUI | Python Tkinter GUI Tutorial In Hindi #7"](https://youtu.be/WYLokw4mZQw)
+    - 👂🏻 [Watched a Youtube video "Frame In Tkinter | Python Tkinter GUI Tutorial In Hindi #8"](https://youtu.be/dgFjh5WbQDU)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Head & Tail - Terminal Commands"](https://youtu.be/rA5DH54LVF8)
+    - 👂🏻 [Watched a Youtube video "Compare Content of Files - Terminal Commands"](https://youtu.be/MSKcWtkaNtU)
+</p>
+</details>
 </p>
 </details>
