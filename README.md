@@ -657,5 +657,37 @@ Steve Irwin
     - 👂🏻 [Watched a Youtube video "Ping - Terminal Commands"](https://youtu.be/QYO5mWO-d5c)
 </p>
 </details>
+
+<details>
+<summary>Day 76</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity25.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate24.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day76chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day76chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day76chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day76chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Skyrocket your productivity using this simple Step-by-step guide to focus!"](https://youtu.be/n1wsInQGX4c)
+    - 👂🏻 [Watched a Youtube video "How Mushrooms Are Turned Into Bacon And Styrofoam | World Wide Waste"](\https://youtu.be/uznXI8wrdag)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Travel Form Using Checkbuttons & Entry Widget | Python Tkinter GUI Tutorial In Hindi #11"](https://youtu.be/H0hOBmc3-tw)
+    - 👂🏻 [Watched a Youtube video "Accepting User Input In Tkinter Form | Python Tkinter GUI Tutorial In Hindi #12"](https://youtu.be/dvLMe-L5e-g)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Solved 5 hackkerrank Problems in Python
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Zip & Unzip files - Terminal Commands"](https://youtu.be/FlBoAhD1U_A)
+    - 👂🏻 [Watched a Youtube video "Managing Processes Running on System - Terminal Commands"](https://youtu.be/MHdMizcKQeI)
+- ✔️Agile Upgrade ["Agile_Scrum_Foundation"]
+    - 🚀Introduction
+    - 🚀Agile Scrum Concept
+    - 🚀Roles and Rituals
+- ✔️UX Design Upskilling
+    - 🚀["What Does A UX/UI Designer Actually Do?"](https://xd.adobe.com/ideas/career-tips/16-experts-explain-ux-design-and-what-they-do/)
+
+</p>
+</details>
 </p>
 </details>
