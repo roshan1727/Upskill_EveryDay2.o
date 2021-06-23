@@ -715,5 +715,31 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 78</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity27.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate26.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day78chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day78chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day78chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day78chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Europe pushes for the Right to Disconnect"](https://youtu.be/quVd-czO67c)
+- ✔️Data Structure Upgrading
+    - 👂🏻 [Watched a Youtube video "2.1 Introduction to linked list | Need of linked list | data structures"](https://youtu.be/dmb1i4oN5oE)
+    - 👂🏻 [Watched a Youtube video "2.2 Types of linked list in data structures"](https://youtu.be/DWpVGpNfDmM)
+    - 👂🏻 [Watched a Youtube video "2.3 Arrays vs Linked List | Data structures"](https://youtu.be/qauEA64G1Ds)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Solved 5 hackkerrank Problems in Python
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Text to Speech - Terminal Commands"](https://youtu.be/5xCaLiI1F2U)
+    - 👂🏻 [Watched a Youtube video "Get Weather Forecast - Terminal Commands"](https://youtu.be/uQt3y4zRbkQ)
+
+</p>
+</details>
 </p>
 </details>
