@@ -741,5 +741,30 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 79</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity28.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate27.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day79chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day79chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day79chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day79chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Ronaldo takes the fizz out of Coke"](https://youtu.be/4tvo3prGzVc)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Python GUI Exercise 2: Window Resizer GUI | Python Tkinter GUI Tutorial In Hindi #16"](https://youtu.be/8Qy_809RDM0)
+    - 👂🏻 [Watched a Youtube video "Python GUI Exercise 1: Solution | Python Tkinter GUI Tutorial In Hindi #15"](https://youtu.be/Le1Sp71JI70)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Solved 5 hackkerrank Problems in Python
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Prevent your PC from Sleeping - Terminal Commands"](https://youtu.be/vKLT6bBu__I)
+    - 👂🏻 [Watched a Youtube video "Prank Command - Terminal Commands"](https://youtu.be/CXyEjB3p988)
+
+</p>
+</details>
 </p>
 </details>
