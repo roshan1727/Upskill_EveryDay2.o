@@ -766,5 +766,30 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 80</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity29.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate28.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day80chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day80chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day80chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day80chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Tesla's NEW Cost-Efficient Batteries"](https://youtu.be/lA6FUfaOloo)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Menus & Submenus In Tkinter Python | Python Tkinter GUI Tutorial In Hindi #17"](https://youtu.be/mea-xEhMf3Y)
+    - 👂🏻 [Watched a Youtube video "Message Box In Tkinter Python | Python Tkinter GUI Tutorial In Hindi #18"](https://youtu.be/yiAlV5Huo84)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Solved 5 hackkerrank Problems in Python
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "Download Files from the Internet - Terminal Commands"](https://youtu.be/4Q49WERCWJw)
+    - 👂🏻 [Watched a Youtube video "Aliases - Terminal Commands"](https://youtu.be/T9Cs_PCi8S8)
+
+</p>
+</details>
 </p>
 </details>
