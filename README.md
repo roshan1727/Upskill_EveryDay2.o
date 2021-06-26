@@ -793,3 +793,39 @@ Steve Irwin
 </details>
 </p>
 </details>
+
+>"You are always a student, never a master. You have to keep moving forward."
+-Conrad Hall
+
+<details>
+<summary>
+->June 26,2021 - July 10,2021
+</summary>
+<p>
+<details>
+<summary>Day 81</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity30.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate29.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day81chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day81chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day81chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day81chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "This 22 Year Old Cleaned Up 3,800 Tons of Garbage in India | EVERYDAY BOSSES #31"](https://youtu.be/xAcM-Z4MWSM)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Sliders In Tkinter Using Scale() | Python Tkinter GUI Tutorial In Hindi #19"](https://youtu.be/luAhG37X8pE)
+    - 👂🏻 [Watched a Youtube video "Creating RadioButtons In Tkinter | Python Tkinter GUI Tutorial In Hindi #20"](https://youtu.be/BIeO2JTxOuw)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Solved 5 hackkerrank Problems in Python
+- ✔️Linux/Mac Terminal Commands Upgrading
+    - 👂🏻 [Watched a Youtube video "BEWARE - Terminal Commands"](https://youtu.be/TOEIPK_My1c)
+    - 👂🏻 [Watched a Youtube video "Environment Variables - Terminal Commands"](https://youtu.be/ia1nSu4nc-4)
+
+</p>
+</details>
+
+</p>
+</details>
