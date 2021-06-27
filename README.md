@@ -827,5 +827,30 @@ Steve Irwin
 </p>
 </details>
 
+<details>
+<summary>Day 81</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity31.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate30.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day82chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day82chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day82chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day82chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How Tesla’s Battery Mastermind Is Tackling EV's Biggest Problem"](https://youtu.be/xLr0GStrnwQ)
+    - 👂🏻 [Watched a Youtube video "Gravitas: Google is facing Anti-trust lawsuits globally"](https://youtu.be/uXMySP8Ioa4)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Python GUI Exercise 1: Solution | Python Tkinter GUI Tutorial In Hindi #15"](https://youtu.be/Le1Sp71JI70)
+    - 👂🏻 [Watched a Youtube video "Python GUI Exercise 2: Window Resizer GUI | Python Tkinter GUI Tutorial In Hindi #16"](https://youtu.be/8Qy_809RDM0)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️WebDevelopment
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Attribute & nth child pseudo Selectors | Web Development Tutorials #32"](https://youtu.be/P-hZDC5YkJE)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Before and After Pseudo Selectors | Web Development Tutorials #33"](https://youtu.be/PlKG1fooswU)
+
+</p>
+</details>
+
 </p>
 </details>
