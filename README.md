@@ -959,5 +959,30 @@ Steve Irwin
 
 </p>
 </details>
+<details>
+<summary>Day 87</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity36.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate35.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day87chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day87chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day87chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day87chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "At least 150 people died in shootings across the US over Fourth of July weekend |Latest English News"](https://youtu.be/gF7Yrei5x2E)
+    - 👂🏻 [Watched a Youtube video "Why Championship Chess Sets Are So Expensive | So Expensive"](https://youtu.be/-Tg9xiJ6D6k)
+- ✔️Python Upgrading
+    - 👂🏻 [Watched a Youtube video "Creating a GUI Notepad In Tkinter | Python Tkinter GUI Tutorial In Hindi #29"](https://youtu.be/UMTaOFNk73Y)
+    - 👂🏻 [Watched a Youtube video "Tkinter Tutorials Conclusion + Resources | Python Tkinter GUI Tutorial In Hindi #30"](https://youtu.be/K_IbYqZQHko)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Git  Upgrading
+    - 👂🏻 [Watched a Youtube video "Git: Creating & Switching Branches In Git | Git Tutorials #15"](https://youtu.be/SFDR90rAsO4)
+    - 👂🏻 [Watched a Youtube video "Branching & Merging a Production Grade Project | Git Tutorials #16"](https://youtu.be/5e-DLY_spg0)
+    - 👂🏻 [Watched a Youtube video "Resolving Merge Conflicts (With Example) | Git Tutorials #17"](https://youtu.be/nfOxUaA2trY)
+
+</p>
+</details>
 </p>
 </details>
