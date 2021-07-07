@@ -984,5 +984,28 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 88</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity37.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate36.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day88chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day88chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day88chs3.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How to use FEAR to boost your sales? (Ethically)"](https://youtu.be/lSF--3zgjKQ)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#1 Django tutorials | What is Django? | Python Web Framework"](https://youtu.be/SIyxjRJ8VNY)
+    - 👂🏻 [Watched a Youtube video "#2 Django tutorials | Setup"](https://youtu.be/VuETrwKYLTM)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Git  Upgrading
+    - 👂🏻 [Watched a Youtube video "Git Branching Workflow in Production | Git Tutorials #18"](https://youtu.be/7xhkEQS3dXw)
+    - 👂🏻 [Watched a Youtube video "Pushing Git Branches To Remote Repositories | Git Tutorials #19"](https://youtu.be/3Jl3oQfZHA4)
+
+</p>
+</details>
 </p>
 </details>
