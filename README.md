@@ -1007,5 +1007,28 @@ Steve Irwin
 
 </p>
 </details>
+
+
+<details>
+<summary>Day 89</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity38.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate37.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day89chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day89chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day89chs3.png)
+ - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day89chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Vertical farms could take over the world | Hard Reset by Freethink"](https://youtu.be/J4SaSfnHK3I)
+    - 👂🏻 [Watched a Youtube video "Engineering the Impossible: The Future of Military Tech"](https://youtu.be/zq9Mj5eMpBw)
+    - 👂🏻 [Watched a Youtube video "Growing Tomatoes Indoors With 94% Less Water And No Soil"](https://youtu.be/5Fq6PQl7fr8)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#3 Django tutorials | First App in Django - part 1"](https://youtu.be/ykpuyNy5oUM)
+    - 👂🏻 [Watched a Youtube video "#4 Django tutorials | First App Django - part 2"](https://youtu.be/4UMs7DxWn_Q)
+- ✔️Sovled Todays Daily Challenge in skillrack
+</p>
+</details>
 </p>
 </details>
