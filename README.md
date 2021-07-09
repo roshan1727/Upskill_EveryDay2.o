@@ -1031,7 +1031,7 @@ Steve Irwin
 </p>
 </details>
 <details>
-<summary>Day 89</summary>
+<summary>Day 90</summary>
 <p>
 
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity39.jpg)
