@@ -1030,5 +1030,27 @@ Steve Irwin
 - ✔️Sovled Todays Daily Challenge in skillrack
 </p>
 </details>
+<details>
+<summary>Day 89</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity39.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate38.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day90chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day90chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day90chs3.png)
+ - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day90chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How I Found The Right Direction Towards Success? | Digital Pratik | Josh Talks"](https://youtu.be/pm5TnwKD_a0)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#5 Django tutorials | Django Template Language | DTL"](https://youtu.be/GNlIe5zvBeQ)
+    - 👂🏻 [Watched a Youtube video "#6 Django tutorials | Django Template Language - part 2"](https://youtu.be/Kz-G6GnumsI)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Creating Animations & Keyframes | Web Development Tutorials #36"](https://youtu.be/jiK6Mf-ILSg)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Creating Transitions in CSS | Web Development Tutorials #37"](https://youtu.be/k4Dr0PJKidI)
+</p>
+</details>
 </p>
 </details>
