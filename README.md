@@ -1054,3 +1054,38 @@ Steve Irwin
 </details>
 </p>
 </details>
+
+>There is no royal road to anything. One thing at a time, all things in succession. That which grows fast, withers as rapidly. That which grows slowly, endures.   
+-Josiah Gilbert Holland
+
+<details>
+<summary>
+->July 11,2021 - July 21,2021
+</summary>
+<p>
+<details>
+<summary>Day 91</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity40.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate39.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day91chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day91chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day91chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day91chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas Plus | Financial Literacy: The need of the hour"](https://youtu.be/7oj6gpAbYgw)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#7 Django tutorials | Addition of Two Numbers in Django"](https://youtu.be/_xBMAoDfydg)
+    - 👂🏻 [Watched a Youtube video "#8 Django tutorials | GET vs POST | HTTP Methods"](https://youtu.be/QD4GlXtf-WU)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Transform property in CSS | Web Development Tutorials #38"](https://youtu.be/K0Gz7CKNJzY)
+    - 👂🏻 [Watched a Youtube video "Creating Fully Responsive Website Project Using HTML & CSS in Hindi | Web Development Tutorials #39"](https://youtu.be/8KVrdL0VcAk)
+
+</p>
+</details>
+
+</p>
+</details>
