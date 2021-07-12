@@ -1087,5 +1087,29 @@ Steve Irwin
 </p>
 </details>
 
+<details>
+<summary>Day 92</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate41.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity41.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day92chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day92chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day92chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day92chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Jordan Peterson: Why Do Nice Guys Nice Finish Last? (MUST WATCH)"](https://youtu.be/di2FM8WZI5E)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#9 Django tutorials | Model View Template in Django | MVT"](https://youtu.be/GGkFg52Ot5o)
+    - 👂🏻 [Watched a Youtube video "Support Telusko"](https://youtu.be/Bwd9hr5Fz5E)
+- ✔️Sovled Todays Daily Challenge in skillrack
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "CSS Grid: Introduction & Creating A Basic Grid | Web Development Tutorials #40"](https://youtu.be/MPl9bevckUE)
+    - 👂🏻 [Watched a Youtube video "CSS Grid: Creating Rows & Gaps in Grid | Web Development Tutorials #41"](https://youtu.be/Aec0xLKzBWk)
+
+</p>
+</details>
+
 </p>
 </details>
