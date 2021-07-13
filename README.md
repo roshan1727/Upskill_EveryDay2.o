@@ -1111,5 +1111,27 @@ Steve Irwin
 </p>
 </details>
 
+<details>
+<summary>Day 93</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity42.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate42.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day93chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day93chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day93chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day93chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Canada heatwave: 1 Billion sea animals dead"](https://youtu.be/AnDLQ2Q2bXQ)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#10 Django tutorials | Static Files - 1"](https://youtu.be/K8Uem148uOU)
+    - 👂🏻 [Watched a Youtube video "#11 Django tutorials | Static Files - 2"](https://youtu.be/Tt3mgy2ECug)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "CSS Grid: Spanning Multiple Rows and Columns in Grid | Web Development Tutorials #42"](https://youtu.be/5II60I5gpKY)
+    - 👂🏻 [Watched a Youtube video "CSS Grid: Autofit & MinMax | Web Development Tutorials #43"](https://youtu.be/QAv7TsE18QM)
+
+</p>
+</details>
 </p>
 </details>
