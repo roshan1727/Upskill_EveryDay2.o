@@ -1156,5 +1156,28 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 95</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity44.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate44.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day95chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day95chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day95chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day95chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Infrared cams reveal Europe's methane leaks"](https://youtu.be/7OR0jiOcMNQ)
+- ✔️Python Django Upgrading
+    - 👂🏻 [Watched a Youtube video "#14 Django tutorials | If Statement"](https://youtu.be/nuW0o4-dSpo)
+    - 👂🏻 [Watched a Youtube video "#15 Django tutorials | ORM | Object Relational Mapper | Theory"](https://youtu.be/7E1M1W9o7PA)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Introduction to JavaScript for Frontend & Backend | Web Development Tutorials #46"](https://youtu.be/01GNWUuLbYk)
+    - 👂🏻 [Watched a Youtube video "Writing in-browser JavaScript and Developer Console | Web Development Tutorials #47"](https://youtu.be/f5pG-uhsykk)
+
+</p>
+</details>
 </p>
 </details>
