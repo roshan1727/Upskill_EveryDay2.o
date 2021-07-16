@@ -1179,5 +1179,25 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 96</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity45.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate45.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs4.png)  
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video ""]()
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Variables, Data Types and Operators in JavaScript | Web Development Tutorials #48"](https://youtu.be/xv82yODVXqo)
+    - 👂🏻 [Watched a Youtube video "Strings in JavaScript | Web Development Tutorials #49"](https://youtu.be/cc8OOwqj258)
+
+</p>
+</details>
 </p>
 </details>
