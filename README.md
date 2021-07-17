@@ -1192,7 +1192,7 @@ Steve Irwin
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs3.png)
   - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day96chs4.png)  
 - ✔️Youtube Videos for English vocabalory
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "How India can Become Rich by Adopting the Ireland Education Model?"](https://youtu.be/5JKTbU6RnA0)
 - ✔️Webdevelopment Upgrading
     - 👂🏻 [Watched a Youtube video "Variables, Data Types and Operators in JavaScript | Web Development Tutorials #48"](https://youtu.be/xv82yODVXqo)
     - 👂🏻 [Watched a Youtube video "Strings in JavaScript | Web Development Tutorials #49"](https://youtu.be/cc8OOwqj258)
