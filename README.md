@@ -1199,5 +1199,50 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 97</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity46.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate46.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day97chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day97chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day97chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day97chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: China is dumping 'human waste' in South China Sea"](https://youtu.be/NmIQprH3zks)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "String Functions in JavaScript | Web Development Tutorials #50"](https://youtu.be/wV8JB_L2smc)
+    - 👂🏻 [Watched a Youtube video "Scope, If-else Conditionals & Switch Case in JavaScript | Web Development Tutorials #51"](https://youtu.be/vBNo70N3EwU)
+
+</p>
+</details>
+
+<details>
+<summary>Day 98</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity47.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate47.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day98chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day98chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day98chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day98chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Why Elon Musk’s Boring Company Isn’t Fixing Traffic Anytime Soon"](https://youtu.be/hFx6vx4P9M8)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Arrays & Objects in JavaScript | Web Development Tutorials #52"](https://youtu.be/-oVdqCaL3DQ)
+    - 👂🏻 [Watched a Youtube video "Functions in JavaScript | Web Development Tutorials #53"](https://youtu.be/SIHwNLrMXvU)
+- ✔️Skillrack 5 problem
+- ✔️Solved Todays Daily challenge in skillrack.
+- ✔️coding Upgrading 20 days
+    - 👂🏻 [Watched a Youtube video "#21daysofcode Day 2 - Arrays"](https://youtu.be/GQNknIK4ZW0)
+
+
+</p>
+</details>
 </p>
 </details>
