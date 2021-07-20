@@ -1244,5 +1244,49 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 99</summary>
+<p>
+
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day99chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day99chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day99chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day99chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas Plus: Do you sleep for less than 7.5 hours? Watch this"](https://youtu.be/MgI1AxIvyMw)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Interaction - Alert, Prompt, Confirm | Web Development Tutorials #54"](https://youtu.be/pdqXYAe1kKA)
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: for, while, forEach, Do While Loops | Web Development Tutorials #55"](https://youtu.be/tOqn-XxVFUM)
+- ✔️coding Upgrading 20 days
+    - 👂🏻 [Watched a Youtube video "#21daysofcode Day 3 - Math"](https://youtu.be/aApPtFAQyLE)
+
+
+</p>
+</details>
+
+<details>
+<summary>Day 100</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity48.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate48.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day100chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day100chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day100chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day100chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video ""]()
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Navigating The DOM | Web Development Tutorials #56"](https://youtu.be/cEWLPtRhiio)
+    - 👂🏻 [Watched a Youtube video "\JavaScript Tutorial: Events & Listening to Events | Web Development Tutorials #57"](https://youtu.be/d4PN2rJD98g)
+- ✔️coding Upgrading 20 days
+    - 👂🏻 [Watched a Youtube video "#21daysofcode Day 4 - Binary Search"](https://youtu.be/ZlSeqXpMxjU)
+
+
+</p>
+</details>
 </p>
 </details>
