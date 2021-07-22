@@ -1288,5 +1288,50 @@ Steve Irwin
 
 </p>
 </details>
+
+<details>
+<summary>Day 101</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity49.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate49.jpg)
+- ✔️Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day101chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day101chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day101chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day101chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Business War: Apple Music vs Spotify vs YouTube Music"](https://youtu.be/HFzSK32G4OU)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Date & Time In JavaScript | Web Development Tutorials #59"](https://youtu.be/6CJFCvSlKfs)
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: setInterval & setTimeOut | Web Development Tutorials #58"](https://youtu.be/yGU9DJ5TI8I)
+- ✔️coding Upgrading 20 days
+    - 👂🏻 [Watched a Youtube video "#21daysofcode Day 5 - Strings"](https://youtu.be/F_GEhRtZ5zg)
+
+
+</p>
+</details>
+
+<details>
+<summary>Day 102</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity50.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate50.jpg)
+- ✔️Chess.com
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day102chs1.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day102chs2.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day102chs3.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How to earn money as a Freelancer in 2021 : A step-by-step Guide"](https://youtu.be/t8v1aWCZYTE)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Arrow Functions In JavaScript | Web Development Tutorials #60"](https://youtu.be/OkFPMOudomg)
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Math Object In JavaScript | Web Development Tutorials #61"](https://youtu.be/JwOROnOmuNQ)
+- ✔️coding Upgrading 20 days
+    - 👂🏻 [Watched a Youtube video "#21daysofcode Day 6 - Bit Manipulation"](https://youtu.be/pslUgNUCOXs)
+
+
+</p>
+</details>
 </p>
 </details>
