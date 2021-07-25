@@ -1346,10 +1346,29 @@ Steve Irwin
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day103chs3.png)
   - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day103chs4.png)
 - ✔️Youtube Videos for English vocabalory
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "How to end poverty in India : Cardano Case study from Ethiopia"](https://youtu.be/NM-WadrQqWE)
 - ✔️Webdevelopment Upgrading
-    - 👂🏻 [Watched a Youtube video ""]()
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "JavaScript Tutorial: Working with JSON in JavaScript | Web Development Tutorials #62"](https://youtu.be/ju5j7rfXXTE)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Node.Js Introduction and Installation | Web Development Tutorials #63"](https://youtu.be/YFmgNiimfyk)
+</p>
+</details>
+
+<details>
+<summary>Day 104</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity52.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate52.jpg)
+- ✔️Chess.com
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day104chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day104chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day104chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day104chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "How SpaceX Produces Raptor Engines So Fast"](https://youtu.be/iHSaBWWgooc)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Node.Js Modules with Examples | Web Development Tutorials #64"](https://youtu.be/eSh1FZDJEWU)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Blocking vs Non-Blocking execution | Web Development Tutorials #65"](https://youtu.be/BVMjyLPAR0I)
 </p>
 </details>
 </p>
