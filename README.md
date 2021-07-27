@@ -1060,7 +1060,7 @@ Steve Irwin
 
 <details>
 <summary>
-->July 11,2021 - July 21,2021
+->July 11,2021 - July 31,2021
 </summary>
 <p>
 <details>
@@ -1369,6 +1369,45 @@ Steve Irwin
 - ✔️Webdevelopment Upgrading
     - 👂🏻 [Watched a Youtube video "Backend Tutorial: Node.Js Modules with Examples | Web Development Tutorials #64"](https://youtu.be/eSh1FZDJEWU)
     - 👂🏻 [Watched a Youtube video "Backend Tutorial: Blocking vs Non-Blocking execution | Web Development Tutorials #65"](https://youtu.be/BVMjyLPAR0I)
+</p>
+</details>
+
+<details>
+<summary>Day 105</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity53.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate53.jpg)
+- ✔️Chess.com
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day105chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day105chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day105chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day105chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas Plus: What explains the Church's interest in education?"](https://youtu.be/Huv1Sjp9w_Q)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Serving HTML Files using NodeJs | Web Development Tutorials #66"](https://youtu.be/ALzoL4c4yGA)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Creating a Custom Backend Using NodeJs | Web Development Tutorials #67"](https://youtu.be/bUVYHF6fRbo)
+</p>
+</details>
+
+
+<details>
+<summary>Day 106</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity54.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate53.jpg)
+- ✔️Chess.com
+   ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day106chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day106chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day106chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day106chs4.png)
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Improving Public Perception of Police through Technology | Praveen Sood | TEDxGlobalAcademy"](https://youtu.be/zvjXnct8uHM)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Creating Custom Modules in Node Using NodeJs | Web Development Tutorials #68"](https://youtu.be/-8vI4B60008)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: npm: The Node Package Manager Tutorial | Web Development Tutorials #69"](https://youtu.be/YBwWGvdUbQU)
 </p>
 </details>
 </p>
