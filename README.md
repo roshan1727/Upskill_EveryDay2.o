@@ -1410,5 +1410,47 @@ Steve Irwin
     - 👂🏻 [Watched a Youtube video "Backend Tutorial: npm: The Node Package Manager Tutorial | Web Development Tutorials #69"](https://youtu.be/YBwWGvdUbQU)
 </p>
 </details>
+
+<details>
+<summary>Day 107</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity55.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate55.jpg)
+
+- ✔️Chess.com
+   ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day107chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day107chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day107chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day107chs4.png)
+
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Gravitas: Softbank pulls the plug on Pepper"](https://youtu.be/87QsYQm0ld4)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Installing Express and Postman | Web Development Tutorials #70"](https://youtu.be/p7svrBmjZpc)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Writing our first Express App | Web Development Tutorials #71"](https://youtu.be/gF9P93haajE)
+</p>
+</details>
+
+<details>
+<summary>Day 108</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/lumosity/lumosity56.jpg)
+- ✔️ [Completed Daily Workout Problem in elevate](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/elevate/elevate56.jpg)
+
+- ✔️Chess.com
+   ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day108chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day108chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day108chs3.png)
+  - ✔️ [Played  puzzle battle with random person](https://github.com/roshan1727/Upskill_EveryDay2.o/blob/main/images/Chess.com/day108chs4.png)
+
+- ✔️Youtube Videos for English vocabalory
+    - 👂🏻 [Watched a Youtube video "Jeff Bezos's Advice Will Leave You SPEECHLESS (MUST WATCH) | Jeff Bezos Motivation"](https://youtu.be/RJMT6Bv60Qg)
+- ✔️Webdevelopment Upgrading
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Static Files & Installing Pug template engine | Web Development Tutorials #72"](https://youtu.be/mgQ1vBZvMes)
+    - 👂🏻 [Watched a Youtube video "Backend Tutorial: Using raw HTML in Pug template engine | Web Development Tutorials #73"](https://youtu.be/vl8HiAmslJQ)
+</p>
+</details>
 </p>
 </details>
